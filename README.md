@@ -25,20 +25,20 @@ A GitHub search application built with React 19, Redux Toolkit, and TypeScript. 
 ## Setup
 
 ```bash
-npm install
-npm run dev
+yarn install
+yarn dev
 ```
 
 ## Scripts
 
 | Command | Description |
 |---------|-------------|
-| `npm run dev` | Start dev server |
-| `npm run build` | Type-check and build for production |
-| `npm run test` | Run tests |
-| `npm run test:watch` | Run tests in watch mode |
-| `npm run lint` | Lint with ESLint |
-| `npm run format` | Format with Prettier |
+| `yarn dev` | Start dev server |
+| `yarn build` | Type-check and build for production |
+| `yarn test` | Run tests |
+| `yarn test:watch` | Run tests in watch mode |
+| `yarn lint` | Lint with ESLint |
+| `yarn format` | Format with Prettier |
 
 ## Tech Stack
 
